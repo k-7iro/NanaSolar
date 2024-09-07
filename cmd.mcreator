@@ -1,0 +1,46 @@
+{
+  "mod_elements": [
+    {
+      "name": "Test",
+      "type": "item",
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test",
+      "metadata": {
+        "files": [
+          "src/main/java/net/mcreator/cmd/item/TestItem.java",
+          "src/main/resources/assets/cmd/models/item/test.json"
+        ]
+      }
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "tag_elements": {},
+  "tab_element_order": {},
+  "language_map": {
+    "en_us": {
+      "item.cmd.test": "Test"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "cmd",
+    "modName": "CMD2021",
+    "version": "1.0.0",
+    "author": "kosuk, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Not specified",
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.20.1",
+    "modElementsPackage": "net.mcreator.cmd"
+  },
+  "mcreatorVersion": 202400232117
+}
